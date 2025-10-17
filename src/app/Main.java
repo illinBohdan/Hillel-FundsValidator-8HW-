@@ -42,4 +42,5 @@ public class Main {
     private static double getBalance(double balance, double withdrawal) {
         return balance - withdrawal;
     }
+
 }
