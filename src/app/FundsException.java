@@ -5,3 +5,4 @@ public class FundsException extends RuntimeException {
         super(message);
     }
 }
+
